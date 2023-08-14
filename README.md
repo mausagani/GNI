@@ -1,1 +1,1 @@
-# GNI
+# GNewsIND
